@@ -1,0 +1,492 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+#ipoec {
+  color: #000000;
+  text-align: center;
+}
+
+#igb28 {
+  width: 150px;
+}
+
+#imp0h {
+  color: #ffffff;
+  font-family: SimHei, "黑体";
+}
+
+#ij69b {
+  background: url('../img/bullying-background.jpg') repeat left top / cover scroll;
+}
+
+#i8aeb {
+  color: #000000;
+}
+
+#ibyy45 {
+  font-size: 50px;
+  color: #dcd9d4;
+}
+
+#iyg3zl {
+  background: url('../img/bullying-image.jpg') repeat center center / auto scroll;
+}
+
+#ibb6cv,
+#in9tjm,
+#iiycbb,
+#ix2j81 {
+  color: #ffffff;
+}
+
+#i3ijl7 {
+  height: 350px;
+}
+
+#ice35k {
+  text-align: center;
+  position: relative;
+}
+
+.c30395 {
+  z-index: 3;
+}
+
+.c29716,
+.c30529 {
+  max-width: 1000px;
+}
+
+.c33269,
+.c34748 {
+  max-width: 850px;
+}
+
+.c33946 {
+  max-width: 600px;
+}
+
+.c33412 {
+  max-width: 1050px;
+  background-color: #000;
+}
+
+.c34098 {
+  top: 0;
+  min-height: 400px;
+}
+
+.c34808 {
+  background-color: #FB6567;
+}
+
+.c34888 {
+  background-color: #F3317A;
+}
+
+.c34959 {
+  background-color: #EC008B;
+}
+
+.c34056,
+.c29214 {
+  overflow: visible;
+}
+
+.c35132 {
+  color: #888;
+}
+
+.c35720 {
+  --cnvs-iconlist-color: #EC008B;
+}
+
+.c29011 {
+  background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.8));
+}
+
+.c29211 {
+  background-color: #000 !important;
+}
+
+.c35102 {
+  background: linear-gradient(to bottom, rgba(255,255,255,.1), rgba(255,255,255,.03));
+  border-top-color: #222;
+}
+
+.c176862 {
+  scrollbar-color: rgb(69, 74, 77) rgb(32, 35, 36);
+  color: rgb(228, 226, 222);
+  font-family: "PT Serif", serif;
+  outline-color: rgba(72, 78, 81, 0.7);
+  --darkreader-inline-color: var(--darkreader-text-e4e2de, #d5d2cc);
+  --darkreader-inline-outline: var(--darkreader-border-484e51b3, rgba(115, 107, 94, 0.7));
+}
+
+.c1007856 {
+  color: rgb(220, 217, 212);
+  font-family: "PT Serif", serif;
+  font-size: 56px;
+  letter-spacing: normal;
+  text-transform: none;
+  --darkreader-inline-color: var(--darkreader-text-dcd9d4, #d0cbc5);
+}
+
+.c29274 {
+  font-size: 12px;
+}
+
+.c1076336,
+.c1076363,
+.c1076390 {
+  color: rgba(255, 255, 255, 0.85);
+  font-variant-numeric: normal;
+  font-variant-east-asian: normal;
+  font-variant-alternates: normal;
+  font-size-adjust: none;
+  font-language-override: normal;
+  font-kerning: auto;
+  font-optical-sizing: auto;
+  font-feature-settings: normal;
+  font-variation-settings: normal;
+  font-variant-position: normal;
+  font-variant-emoji: normal;
+  font-stretch: normal;
+  font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 700;
+  line-height: 24px;
+  flex: 0 1 auto;
+  flex-direction: row;
+  justify-content: normal;
+  align-items: normal;
+  padding: 0px;
+  margin: 0px;
+  background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0);
+  --darkreader-inline-color: var(--darkreader-text-ffffffd9, rgba(232, 230, 227, 0.85));
+  --darkreader-inline-bgimage: none;
+  --darkreader-inline-bgcolor: var(--darkreader-background-00000000, rgba(24, 26, 27, 0));
+}
+
+.c1520164,
+.c1536194,
+.c3057684,
+.c3058762 {
+  color: #9f9687;
+  font-family: SimHei, "黑体";
+}
+
+.c1520174,
+.c1536204,
+.c28649,
+.c580478 {
+  background: unset;
+}
+
+.c1645136 {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  z-index: 3;
+}
+
+.c1645172 {
+  bottom: -1.8rem;
+  right: -1.5rem;
+  width: 85%;
+  height: 90%;
+}
+
+.c2176800,
+.c3486240 {
+  top: -2rem;
+  left: -1.4rem;
+}
+
+.c2384242 {
+  color: rgba(255, 255, 255, 0.85);
+  font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  white-space: pre;
+}
+
+.c29095 {
+  vertical-align: baseline;
+  overflow: auto;
+}
+
+.c2472323 {
+  color: #000000;
+}
+
+.c29113 {
+  font-size: 30px;
+  color: #888888;
+}
+
+.c2533726 {
+  font-family: KaiTi, "楷体";
+}
+
+.c2769882 {
+  font-weight: 400;
+  font-family: SimSun, "宋体";
+}
+
+.c2769954 {
+  font-family: SimSun, "宋体";
+  text-align: right;
+  font-weight: 500;
+}
+
+.c2778899,
+.c2863814 {
+  font-size: 50px;
+  color: #dcd9d4;
+}
+
+.c2822823,
+.c2831385 {
+  font-family: SimSun, "宋体";
+}
+
+.c3024581 {
+  padding: 10px;
+}
+
+.c3047334 {
+  font-family: FangSong, "仿宋";
+}
+
+.c3132621,
+.c4125493 {
+  display: block;
+  padding: 20px;
+  min-height: 40px;
+}
+
+.gjs-row {
+  display: table;
+  padding: 10px;
+  width: 100%;
+}
+
+.gjs-cell {
+  width: 8%;
+  display: table-cell;
+  height: 75px;
+}
+
+.c3167715 {
+  font-size: 40px;
+  text-align: right;
+  color: #ffffff;
+  height: 200px;
+}
+
+.c3860144,
+.c4020088,
+.c4062858,
+.c4076711 {
+  color: #ffffff;
+}
+
+.c4111289,
+.c4147026,
+.c4148540,
+.c4202395,
+.c4203539 {
+  color: #ffffff;
+  font-family: SimHei, "黑体";
+}
+
+.c4111299,
+.c4147036,
+.c4148550,
+.c4202405 {
+  width: 150px;
+}
+
+.c4203549 {
+  width: 200px;
+}
+
+/* 平板设备调整 (768px - 991px) */
+@media (max-width: 991px) {
+  /* 导航菜单调整 */
+  .menu-container.d-flex {
+    flex-wrap: wrap;
+  }
+  
+  .menu-item {
+    margin: 0 10px !important;
+  }
+  
+  .menu-link {
+    width: 120px !important;
+  }
+  
+  /* 内容区域布局调整 */
+  .col-md-6,
+  .col-md-5 {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  /* 字体大小调整 */
+  .display-2 {
+    font-size: 2.5rem !important;
+  }
+  
+  .display-4 {
+    font-size: 2rem !important;
+  }
+  
+  /* 图片和视频高度调整 */
+  #section-image .col-md-12,
+  #section-video .col-md-12 {
+    height: 400px;
+  }
+}
+
+/* 手机设备调整 (767px以下) */
+@media (max-width: 767px) {
+  .gjs-cell,
+  .gjs-cell30,
+  .gjs-cell70 {
+    width: 100%;
+    display: block;
+  }
+  
+  /* 导航菜单响应式调整 */
+  .menu-container.d-flex {
+    display: none !important;
+  }
+  
+  /* 确保汉堡菜单显示 */
+  .primary-menu-trigger {
+    display: flex !important;
+  }
+  
+  /* 内容区域布局调整 */
+  .col-md-6,
+  .col-md-5 {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  /* 字体大小调整 */
+  .display-2 {
+    font-size: 2rem !important;
+  }
+  
+  .display-4 {
+    font-size: 1.8rem !important;
+  }
+  
+  /* 段落文本调整 */
+  p {
+    font-size: 1rem !important;
+    line-height: 1.5 !important;
+  }
+  
+  /* 图片和视频高度调整 */
+  #section-image .col-md-12,
+  #section-video .col-md-12 {
+    height: 300px;
+  }
+  
+  /* 页脚高度调整 */
+  .footer-widgets-wrap {
+    height: auto !important;
+    padding: 20px 0;
+  }
+  
+  /* 间距调整 */
+  .section {
+    padding: 50px 0 !important;
+  }
+  
+  /* 标题间距调整 */
+  .display-4 {
+    margin-bottom: 20px !important;
+  }
+}
+
+@media (max-width: 576px) {
+  /* 更小屏幕的调整 */
+  .display-4 {
+    font-size: 1.5rem !important;
+  }
+  
+  .display-2 {
+    font-size: 1.5rem !important;
+  }
+  
+  #section-image .col-md-12,
+  #section-video .col-md-12 {
+    height: 200px;
+  }
+  
+  /* 导航菜单项宽度调整 */
+  .menu-link {
+    width: 100% !important;
+  }
+  
+  /* 图片和视频响应式调整 */
+  .about-img {
+    height: 200px !important;
+  }
+  
+  /* 手绘漫画和微电影链接文本调整 */
+  #section-image h2,
+  #section-video h2 {
+    font-size: 1.5rem !important;
+  }
+  
+  #section-image p,
+  #section-video p {
+    font-size: 1rem !important;
+  }
+  
+  /* 段落文本调整 */
+  p {
+    font-size: 0.9rem !important;
+    line-height: 1.4 !important;
+  }
+  
+  /* 间距调整 */
+  .section {
+    padding: 30px 0 !important;
+  }
+  
+  /* 容器内边距调整 */
+  .container {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+  }
+  
+  /* 页脚文本调整 */
+  .c2384242 {
+    font-size: 0.8rem !important;
+  }
+  
+  /* 确保汉堡菜单显示 */
+  .primary-menu-trigger {
+    display: flex !important;
+  }
+  
+  /* 调整标题大小 */
+  h1, h2, h3, h4, h5, h6 {
+    line-height: 1.2 !important;
+  }
+  
+  /* 调整按钮大小 */
+  .btn {
+    font-size: 0.9rem !important;
+    padding: 0.5rem 1rem !important;
+  }
+}
